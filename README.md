@@ -1,4 +1,4 @@
-# wscs_assignment2 - RESTful microservices architectures
+# wscs_assignment2 - RESTful microservices architectures bonus point implementation
 
 ## Code Introduction
 - main.py is used to connect front and back
